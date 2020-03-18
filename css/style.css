@@ -595,6 +595,7 @@ table {
   font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
   border-collapse: collapse;
   color: #686461;
+  width:100%;
 }
 caption {
   padding: 10px;
